@@ -40,7 +40,7 @@ void pilih(){
         cin >> pilihanAngka;
         
         if(pilihanAngka == kue){
-            cout << "Yey, Anda mendapatkan SWEET CAKE!🤟" << endl;
+            cout << "Yey, Anda mendapatkan SWEET CAKE!˚🍰🤟" << endl;
         } else {
             cout << "Salah, sweet cake berada di angka nomor " << kue << endl;
         }
